@@ -12,9 +12,9 @@ pytest==6.2.5
 scipy==1.7.3
 setuptools==49.2.1
 six==1.15.0
-streamlit==1.23.1
+streamlit
 tensorboard==2.10.1
-tensorflow==2.10.0
+tensorflow
 torch==1.12.0
 torchaudio==0.12.0
 torchvision==0.13.0
